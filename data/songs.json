@@ -1,0 +1,32 @@
+[
+    {
+        "title": "울트라맨의 노래 (ウルトラマンの歌)",
+        "artist": "미스즈 아동 합창단 (초대 울트라맨 OST)",
+        "file": "music/showa/Ultraman (Character Tribute) ウルトラマン Theme [ENG SUBS] - UltraFan Here (128k).mp3"
+    },
+    {
+        "title": "울트라세븐의 노래 (ウルトラセブンの歌)",
+        "artist": "미스즈 아동 합창단 (울트라세븐 OST)",
+        "file": "music/showa/Ultraseven (Character Tribute) ウルトラセブン Theme [ENG SUBS] - UltraFan Here (128k).mp3"
+    },
+    {
+        "title": "돌아온 울트라맨 (帰ってきたウルトラマン)",
+        "artist": "단 지로, 미스즈 아동 합창단 (돌아온 울트라맨 OST)",
+        "file": "music/showa/Ultraman Jack (Character Tribute) ウルトラマンジャック Theme [ENG SUBS] - UltraFan Here (128k).mp3"
+    },
+    {
+        "title": "울트라맨 에이스 (ウルトラマンエース)",
+        "artist": "허니 나이츠, 미스즈 아동 합창단 (울트라맨 에이스 OST)",
+        "file": "music/showa/Ultraman Ace (Character Tribute) ウルトラマンエース Theme [ENG SUBS].mp3"
+    },
+    {
+        "title": "울트라맨 타로우 (ウルトラマンタロウ)",
+        "artist": "타케무라 타로, 소년소녀 합창단 미즈우미 (울트라맨 타로 OST)",
+        "file": "music/showa/Ultraman Taro (Character Tribute) ウルトラマンタロウ Theme [ENG SUBS].mp3"
+    },
+    {
+        "title": "울트라맨 레오 (ウルトラマンレオ)",
+        "artist": "마나츠 류, 소년소녀 합창단 미즈우미 (울트라맨 레오 OST)",
+        "file": "music/showa/Ultraman Leo (Character Tribute) ウルトラマンレオ Theme [ENG SUBS].mp3"
+    }
+]

@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>빛의 전설: 울트라맨 역사 박물관</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="빛의 전설: 울트라맨 역사 박물관. 쇼와, 헤이세이, 뉴제네레이션, 레이와까지 울트라맨의 역사를 탐색하고 사운드 플레이어와 퀴즈를 즐겨보세요.">
+    <meta name="keywords" content="울트라맨, 울트라맨 역사, M78, 특촬, 괴수, 퀴즈">
+    <meta name="author" content="울트라맨 역사 박물관">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Orbit&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Cosmic Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="stars-overlay"></div>
+        <div class="loading-content">
+            <div class="ultra-spinner-container">
+                <div class="ultra-spinner"></div>
+                <div class="spinner-core"></div>
+            </div>
+            <h2 class="loading-title">M78 우주경비대</h2>
+            <p class="loading-text">라이브러리 데이터베이스 동기화 중...</p>
+        </div>
+    </div>
+
+    <!-- GNB (Global Navigation Bar) -->
+    <header class="glass-header" id="header">
+        <div class="logo">
+            <span class="glow-text">M78</span>
+            <span class="logo-sub">ULTRA MUSEUM</span>
+        </div>
+        <nav class="nav-links">
+            <a href="#hero" class="active">홈</a>
+            <a href="#timeline-sec">역사관</a>
+            <a href="#profile-sec">프로필</a>
+            <a href="#starmap-sec">우주성도</a>
+            <a href="#kaiju-sec">괴수/악역</a>
+            <a href="#player-sec">사운드</a>
+            <a href="#quiz-sec">울트라 퀴즈</a>
+        </nav>
+        <button class="sound-toggle-btn" id="header-sound-btn" aria-label="사운드 온오프">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                <path d="M12 3v18l-6-6H2V9h4l6-6zm3 9c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM12 4.83v2.33c2.58.7 4.5 3.05 4.5 5.84s-1.92 5.14-4.5 5.84v2.33c3.83-.73 6.7-4.11 6.7-8.17s-2.87-7.44-6.7-8.17z"/>
+            </svg>
+        </button>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-section" id="hero">
+        <div class="stars-overlay"></div>
+        <div class="hero-content">
+            <p class="hero-subtitle fadeIn">우주경비대 공식 데이터베이스</p>
+            <h1 class="hero-title fadeIn delay-1">빛의 전설, <br><span class="highlight-text">울트라맨 역사관</span></h1>
+            <p class="hero-description fadeIn delay-2">
+                1966년 M78 성운에서 온 빛의 거인부터 오늘날 우주의 평화를 수호하는 전사들까지. <br>
+                반세기가 넘는 거대한 빛의 역사를 미디어와 인터랙티브 카드로 탐험해보세요.
+            </p>
+            <div class="hero-buttons fadeIn delay-3">
+                <a href="#timeline-sec" class="btn btn-primary">탐험 시작하기</a>
+                <a href="#quiz-sec" class="btn btn-secondary">퀴즈 도전하기</a>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>SCROLL DOWN</span>
+            <div class="arrow"></div>
+        </div>
+    </section>
+
+    <!-- Interactive Timeline Section -->
+    <section class="timeline-section" id="timeline-sec">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">TIMELINE OF LIGHT</span>
+                <h2>거인의 발자취: 울트라 시대사</h2>
+                <div class="decor-line"></div>
+            </div>
+
+            <!-- Era Filter Navigation -->
+            <div class="era-filter-container">
+                <button class="era-tab active" data-era="all">전체 시대</button>
+                <button class="era-tab" data-era="showa">
+                    <span class="era-title">쇼와 시대</span>
+                    <span class="era-years">1966 - 1989</span>
+                </button>
+                <button class="era-tab" data-era="heisei">
+                    <span class="era-title">헤이세이 시대</span>
+                    <span class="era-years">1996 - 2009</span>
+                </button>
+                <button class="era-tab" data-era="newgen">
+                    <span class="era-title">뉴 제네레이션</span>
+                    <span class="era-years">2013 - 2023</span>
+                </button>
+                <button class="era-tab" data-era="reiwa">
+                    <span class="era-title">레이와 시대</span>
+                    <span class="era-years">2024 - 현재</span>
+                </button>
+            </div>
+
+            <!-- Control Bar (Search & Sort) -->
+            <div class="directory-controls">
+                <div class="search-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="text" id="search-input" placeholder="울트라맨 이름 또는 변신자를 검색하세요...">
+                </div>
+                <div class="sort-box">
+                    <label for="sort-select">정렬 기준</label>
+                    <select id="sort-select">
+                        <option value="release-asc">방영년도 순</option>
+                        <option value="release-desc">최신 방영 순</option>
+                        <option value="height-desc">신장 큰 순</option>
+                        <option value="speed-desc">비행 속도 빠른 순</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Ultraman Grid Container -->
+            <div class="ultraman-grid" id="ultraman-grid">
+                <!-- Dynamically Generated Cards in app.js -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Profile Viewer Section (프로필 도감) -->
+    <section class="profile-section" id="profile-sec">
+        <div class="stars-overlay"></div>
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">ULTRA PROFILE</span>
+                <h2>빛의 전사 프로필 도감</h2>
+                <div class="decor-line"></div>
+                <p class="section-intro-text">울트라 전사를 선택하면 상세 프로필과 스펙을 확인할 수 있습니다. 검색으로 원하는 전사를 빠르게 찾아보세요.</p>
+            </div>
+
+            <div class="profile-viewer">
+                <!-- Left: Search + List -->
+                <div class="profile-sidebar glass-panel">
+                    <div class="profile-search-box">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <input type="text" id="profile-search-input" placeholder="전사 이름 검색...">
+                    </div>
+                    <div class="profile-era-chips">
+                        <button class="profile-chip active" data-filter="all">전체</button>
+                        <button class="profile-chip" data-filter="showa">쇼와</button>
+                        <button class="profile-chip" data-filter="heisei">헤이세이</button>
+                        <button class="profile-chip" data-filter="newgen">뉴젠</button>
+                        <button class="profile-chip" data-filter="reiwa">레이와</button>
+                    </div>
+                    <div class="profile-list" id="profile-list">
+                        <!-- Dynamically filled -->
+                    </div>
+                </div>
+
+                <!-- Right: Detail Card -->
+                <div class="profile-detail" id="profile-detail">
+                    <div class="profile-empty-state">
+                        <div class="profile-empty-icon">🌟</div>
+                        <h3>전사를 선택하세요</h3>
+                        <p>좌측 목록에서 울트라 전사를 클릭하면<br>상세 프로필이 이곳에 표시됩니다.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Star Map Section (우주 성도) -->
+    <section class="starmap-section" id="starmap-sec">
+        <div class="stars-overlay"></div>
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">COSMIC ATLAS</span>
+                <h2>은하계 대성도: 출신지 탐색</h2>
+                <div class="decor-line"></div>
+                <p class="section-intro-text">
+                    우주 성도의 빛나는 거점을 선택하면 해당 지역 출신의 울트라 전사들이 하이라이트됩니다.
+                </p>
+            </div>
+
+            <div class="starmap-container">
+                <div class="starmap-visual">
+                    <!-- Space Map Canvas/SVG -->
+                    <svg class="map-svg" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Constellation Lines -->
+                        <path d="M 120,150 L 250,220 M 250,220 L 400,280 M 400,280 L 580,210 M 580,210 L 680,140 M 400,280 L 420,120 M 250,220 L 150,320" class="constellation-line" />
+                        
+                        <!-- Map Nodes (Hotspots) -->
+                        <!-- Node 1: M78 Nebula -->
+                        <g class="map-node" data-origin="m78" transform="translate(120, 150)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">M78 성운 빛의 나라</text>
+                        </g>
+
+                        <!-- Node 2: Planet O-50 -->
+                        <g class="map-node" data-origin="o50" transform="translate(420, 120)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">O-50 행성 (전사의 봉우리)</text>
+                        </g>
+
+                        <!-- Node 3: U40 Planet -->
+                        <g class="map-node" data-origin="u40" transform="translate(250, 220)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">U40 행성</text>
+                        </g>
+
+                        <!-- Node 4: Earth -->
+                        <g class="map-node" data-origin="earth" transform="translate(400, 280)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">지구 (우주의 전장)</text>
+                        </g>
+
+                        <!-- Node 5: L77 Leo Constellation -->
+                        <g class="map-node" data-origin="l77" transform="translate(150, 320)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">L77 성운</text>
+                        </g>
+
+                        <!-- Node 6: Dark Zone -->
+                        <g class="map-node" data-origin="dark" transform="translate(580, 210)">
+                            <circle class="node-glow glow-red" r="25"></circle>
+                            <circle class="node-core core-red" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">다크 존 (어둠의 성운)</text>
+                        </g>
+
+                        <!-- Node 7: Multi Dimension -->
+                        <g class="map-node" data-origin="neo-frontier" transform="translate(680, 140)">
+                            <circle class="node-glow" r="25"></circle>
+                            <circle class="node-core" r="10"></circle>
+                            <text y="-25" text-anchor="middle" class="node-label">네오 프론티어 (초고대 평행우주)</text>
+                        </g>
+                    </svg>
+                </div>
+                
+                <!-- Info Display on Map selection -->
+                <div class="starmap-info-panel glass-panel">
+                    <h3 id="map-region-name">성도를 탐험하세요</h3>
+                    <p id="map-region-desc">성도 위의 파란색 또는 빨간색 노드를 클릭하면 각 지역의 특징과 해당 출신 울트라맨 전사들을 볼 수 있습니다.</p>
+                    <div id="map-related-warriors" class="related-warriors-list">
+                        <!-- Related warriors buttons -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Kaiju & Villains Section -->
+    <section class="kaiju-section" id="kaiju-sec">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">THREAT REPORT</span>
+                <h2>어둠의 추격자: 숙적과 대괴수</h2>
+                <div class="decor-line"></div>
+                <p class="section-intro-text">빛의 전사들에게 도전하고 지구의 평화를 위협한 위대한 괴수와 악의 울트라맨입니다.</p>
+            </div>
+
+            <!-- Kaiju Grid -->
+            <div class="kaiju-grid" id="kaiju-grid">
+                <!-- Dynamically generated in app.js -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Sound Player Section (사운드 플레이어) -->
+    <section class="player-section" id="player-sec">
+        <div class="stars-overlay"></div>
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">COSMIC BEAT</span>
+                <h2>거인의 외침: 음악 보관소</h2>
+                <div class="decor-line"></div>
+            </div>
+
+            <div class="music-player-container glass-panel">
+                <div class="player-left">
+                    <div class="vinyl-disc-container">
+                        <div class="vinyl-disc" id="vinyl-disc">
+                            <div class="vinyl-label">
+                                <span class="vinyl-label-title" id="player-disk-title">ULTRA OST</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="player-details">
+                        <h3 class="track-title" id="player-track-title">곡 제목</h3>
+                        <p class="track-artist" id="player-track-artist">가수 또는 설명</p>
+                    </div>
+                </div>
+
+                <div class="player-right">
+                    <!-- Visualizer -->
+                    <div class="visualizer-container" id="visualizer">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+
+                    <!-- Progress Bar -->
+                    <div class="progress-container">
+                        <span class="time" id="current-time">0:00</span>
+                        <div class="progress-bar-bg" id="progress-bar-bg">
+                            <div class="progress-bar-fill" id="progress-bar-fill"></div>
+                        </div>
+                        <span class="time" id="total-time">3:00</span>
+                    </div>
+
+                    <!-- Controls -->
+                    <div class="player-controls">
+                        <button class="player-btn" id="btn-prev" aria-label="이전 곡">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                                <path d="M6 6h2v12H6zm3.5 6L18 18V6z"/>
+                            </svg>
+                        </button>
+                        <button class="player-btn play-pause-btn" id="btn-play" aria-label="재생">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor" id="play-icon">
+                                <path d="M8 5v14l11-7z"/>
+                            </svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor" id="pause-icon" style="display:none;">
+                                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                            </svg>
+                        </button>
+                        <button class="player-btn" id="btn-next" aria-label="다음 곡">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                                <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Playlist -->
+                    <div class="playlist" id="playlist">
+                        <!-- Dynamically filled in app.js -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trivia Quiz Section -->
+    <section class="quiz-section" id="quiz-sec">
+        <div class="section-container">
+            <div class="section-header">
+                <span class="category-tag">TRIVIA TEST</span>
+                <h2>빛의 전사 자격 검정 (울트라 퀴즈)</h2>
+                <div class="decor-line"></div>
+                <p class="section-intro-text">당신은 울트라맨 역사에 대해 얼마나 알고 계신가요? 퀴즈를 풀고 특별 뱃지를 획득해보세요!</p>
+            </div>
+
+            <div class="quiz-card glass-panel" id="quiz-container">
+                <!-- Start View -->
+                <div class="quiz-view" id="quiz-start-view">
+                    <div class="quiz-icon-large">🏆</div>
+                    <h3>울트라 역사 마스터 도전</h3>
+                    <p>우주경비대에서 엄선한 5개의 고난도 울트라 지식 테스트입니다. 만점자에게는 최고 등급의 뱃지가 주어집니다.</p>
+                    <button class="btn btn-primary" id="btn-quiz-start">검정 시험 시작</button>
+                </div>
+
+                <!-- Active Quiz View -->
+                <div class="quiz-view" id="quiz-active-view" style="display: none;">
+                    <div class="quiz-progress-bar">
+                        <div class="quiz-progress-fill" id="quiz-progress-fill"></div>
+                    </div>
+                    <div class="quiz-meta">
+                        <span id="quiz-current-num">문제 1/5</span>
+                        <span id="quiz-timer">남은 시간: 15초</span>
+                    </div>
+                    <h3 class="question-text" id="quiz-question">질문 내용이 들어갑니다.</h3>
+                    <div class="options-container" id="quiz-options">
+                        <!-- Dynamic buttons -->
+                    </div>
+                </div>
+
+                <!-- Result View -->
+                <div class="quiz-view" id="quiz-result-view" style="display: none;">
+                    <div class="badge-display" id="quiz-badge-icon">🎖️</div>
+                    <h3 id="quiz-result-title">우주 경비대 대원 등급</h3>
+                    <p id="quiz-result-score">점수: 0 / 5</p>
+                    <p id="quiz-result-desc">등급 평가 설명이 노출됩니다.</p>
+                    <button class="btn btn-secondary" id="btn-quiz-retry">재도전하기</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal Popup for Ultraman Details -->
+    <div class="modal-overlay" id="details-modal">
+        <div class="modal-content glass-panel">
+            <button class="modal-close-btn" id="modal-close" aria-label="모달 닫기">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                    <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/>
+                </svg>
+            </button>
+            <div class="modal-body">
+                <div class="modal-left">
+                    <div class="modal-image-wrapper">
+                        <img src="" alt="울트라맨 상세 이미지" id="modal-img" loading="lazy">
+                        <div class="modal-signature-glow" id="modal-glow-theme"></div>
+                    </div>
+                </div>
+                <div class="modal-right">
+                    <span class="modal-era-tag" id="modal-era">ERA</span>
+                    <h2 class="modal-title" id="modal-title">울트라맨 이름</h2>
+                    <p class="modal-subtitle" id="modal-subtitle">변신 캐릭터 / 서브 타이틀</p>
+                    
+                    <div class="specs-grid">
+                        <div class="spec-item">
+                            <span class="spec-label">신장</span>
+                            <span class="spec-value" id="modal-height">40m</span>
+                        </div>
+                        <div class="spec-item">
+                            <span class="spec-label">체중</span>
+                            <span class="spec-value" id="modal-weight">35,000t</span>
+                        </div>
+                        <div class="spec-item">
+                            <span class="spec-label">비행 속도</span>
+                            <span class="spec-value" id="modal-speed">마하 5</span>
+                        </div>
+                        <div class="spec-item">
+                            <span class="spec-label">출신지</span>
+                            <span class="spec-value" id="modal-origin">M78 성운</span>
+                        </div>
+                    </div>
+
+                    <div class="modal-info-block">
+                        <h4>변신 도구 & 대표 인간체</h4>
+                        <p id="modal-transform-info">베타 캡슐 (하야타 신)</p>
+                    </div>
+
+                    <div class="modal-info-block">
+                        <h4>시그니처 기술</h4>
+                        <p id="modal-skills">스페시움 광선</p>
+                    </div>
+
+                    <div class="modal-info-block">
+                        <h4>상세 해설 & 역사적 의의</h4>
+                        <p class="modal-desc" id="modal-description">상세 설명글...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p>© 2026 빛의 전설: 울트라맨 역사 박물관. All Rights Reserved.</p>
+            <p class="footer-warning">본 웹사이트는 팬 창작물이며, 이미지와 정보는 교육 및 연구용으로 제공됩니다. 모든 권리는 츠부라야 프로덕션에 있습니다.</p>
+        </div>
+    </footer>
+
+    <!-- Main JavaScript -->
+    <script src="app.js"></script>
+</body>
+</html>
