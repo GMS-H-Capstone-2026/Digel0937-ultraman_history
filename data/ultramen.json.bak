@@ -471,7 +471,7 @@
         "transformHost": "히카루 라이도 (긴가 스파크)",
         "signatureMove": "긴가 크로스 슛, 긴가 썬더볼트",
         "theme": "blue",
-        "image": "images/reiwa/ultraman ginga.webp",
+        "image": "images/showa/ultraman ginga.webp",
         "description": "뉴 제네레이션 히어로즈 시리즈의 영광스러운 오프닝을 연 주역입니다. 소형화된 괴수 피규어인 '스파크 돌즈'에 수집된 에너지를 스캔하여 봉인을 해제하는 신박한 기공술 완구 메커니즘을 최초로 구축했습니다."
     },
     {
@@ -509,7 +509,7 @@
         "transformHost": "오오조라 다이치 (엑스 디바이저)",
         "signatureMove": "자나디움 광선, 괴수 사이버 아머 장착",
         "theme": "blue",
-        "image": "images/reiwa/ultraman x.webp",
+        "image": "images/showa/ultraman x.webp",
         "description": "특수 과학 수사단 UNVER와 협력하여, 몬스터 카드를 디바이스에 통과시키는 리얼 타임 '사이버 아머' 소환술을 자랑합니다. 괴수를 말살 대상이 아닌 영혼의 소통 친구로 인식하는 독보적인 감성을 담아냈습니다."
     },
     {
@@ -528,7 +528,7 @@
         "transformHost": "쿠레나이 가이 (오브 링)",
         "signatureMove": "오브 슈프림 칼리버, 스페시움 제페리온",
         "theme": "gold",
-        "image": "images/reiwa/ultraman orb.webp",
+        "image": "images/showa/ultraman orb.webp",
         "description": "방랑 음악 전사 가이가 오브 링에 역대 선배 카드 두 장을 스캔해 합체시키는 '퓨전 업'의 정수입니다. 칼날 검 오브 칼리버를 회전하여 폭발적인 화염/수류 성운 공격을 퍼붓는 화려한 특수 연출로 인기가 높습니다."
     },
     {
@@ -547,7 +547,7 @@
         "transformHost": "아사쿠라 리쿠 (지드 라이저)",
         "signatureMove": "렉킹 버스트",
         "theme": "red",
-        "image": "images/reiwa/ultraman geed.webp",
+        "image": "images/showa/ultraman geed.webp",
         "description": "우주 최고의 빌런 베리알의 사악한 유전자를 복제받아 태어났다는 크나큰 굴레를 안고 있습니다. '운명 따위에 휘둘리지 않아!'라고 당당하게 외치며, 자신을 거두어준 지구의 생명을 위해 정의로운 칼끝을 겨눈 심오한 다크 히어로입니다."
     },
     {
@@ -585,7 +585,7 @@
         "transformHost": "쿠도 히로유키 (타이가 스파크)",
         "signatureMove": "스왈로 렛 킥, 트라이 스트라이크",
         "theme": "red",
-        "image": "images/reiwa/ultraman taiga.webp",
+        "image": "images/showa/ultraman taiga.webp",
         "description": "타로의 직계 아들로, 강건한 힘을 자랑하는 타이타스 대원 및 신속한 바람의 후마 대원과 협력하는 '트라이 스쿼드' 팀을 꾸렸습니다. 세 명이 번갈아 한 명의 숙주 인간과 교대로 빙의 결합하는 다채로운 액션을 보여줍니다."
     },
     {
@@ -623,7 +623,7 @@
         "transformHost": "켄고 마나카 (스파크 랜스)",
         "signatureMove": "제페리온 광선, 듀얼 칼리버 소드",
         "theme": "purple",
-        "image": "images/reiwa/ultraman trigger.webp",
+        "image": "images/showa/ultraman trigger.webp",
         "description": "헤이세이의 불멸의 금자탑 티가의 시공간 컨셉을 레이와 시대에 계승하는 초대형 헌정작입니다. 화성 개척 기지 유적에서 깨어나 '모두가 웃을 수 있는 우주'를 목표로 광폭하게 습격해오는 암흑 3대 거인과 투쟁을 펼칩니다."
     },
     {
@@ -642,7 +642,7 @@
         "transformHost": "아스미 카나타 (디 플래셔)",
         "signatureMove": "셀젠드 광선",
         "theme": "blue",
-        "image": "images/reiwa/ultraman decker.webp",
+        "image": "images/showa/ultraman decker.webp",
         "description": "미지의 구체 괴수 스피어가 지구 대기권을 통제하여 우주와의 차단을 겪게 되는 참극을 다룹니다. 주인공 카나타가 미래 차원에서 수신된 무작위 카드를 조율하여 플래시/스트롱/미라클 형태로 변형 격퇴하는 하이테크 배틀입니다."
     },
     {
@@ -661,7 +661,7 @@
         "transformHost": "겐토 히루마 (블레이저 브레스)",
         "signatureMove": "나선 광창 스파이럴 버드케이드",
         "theme": "red",
-        "image": "images/reiwa/ultraman blazar.webp",
+        "image": "images/showa/ultraman blazar.webp",
         "description": "기존의 정형적인 울트라맨 전사들과 달리 언어 대신 특유의 포효 기합을 내뱉고, 사냥 도구인 더블 랜스를 소환해 표효하며 괴수를 압도하는 원시 야성미를 품고 있습니다. 독보적인 긴장감 넘치는 지상군 훈련대 중심의 특촬 연출이 돋보입니다."
     },
     {
@@ -680,7 +680,7 @@
         "transformHost": "히세 유마 (아크 아라이저)",
         "signatureMove": "아크 기가 배리어, 아크 소드 파이널",
         "theme": "gold",
-        "image": "images/reiwa/ultraman arc.webp",
+        "image": "images/showa/ultraman arc.webp",
         "description": "2024년 최신 레이와 시리즈입니다. 주인공의 무한한 '상상력(Imagination)'의 깊이에 반응하여 에너지를 방어막 안경처럼 구부려 날리는 등 이색 전술을 개척했습니다. 몽환적 동화 미학과 기묘한 과학이 혼재된 따뜻하고 경이로운 드라마를 선보입니다."
     },
     {
@@ -699,7 +699,7 @@
         "transformHost": "차원 이동 탐사대 사령원",
         "signatureMove": "크로노 슬래시 오버드라이브",
         "theme": "silver",
-        "image": "images/reiwa/ultraman omega.webp",
+        "image": "images/showa/ultraman omega.webp",
         "description": "시공의 단층과 균열을 타고 습격하는 변칙 생명체를 포획하여 정화하는 시간 수호의 초정밀 용사입니다. 고성능 메탈 플레이트와 우주 장갑을 장비하여 극도로 빠른 시공간 가속 배틀을 수행합니다."
     },
     {
@@ -737,8 +737,27 @@
         "transformHost": "진 (울트라 아이)",
         "signatureMove": "와이드 샷 X, 아이 슬러거 X",
         "theme": "red",
-        "image": "images/heisei/ultraseven x.webp",
+        "image": "images/showa/ultra seven x.webp",
         "description": "디스토피아 평행우주에서 세븐의 힘이 다르게 강림한 상태입니다. 극도로 단단한 근육과 날카로운 눈매를 지녔으며 파괴적인 공격력으로 위협 외계 세력을 한 번에 찢어버립니다."
+    },
+    {
+        "id": "ultraman-blue",
+        "name": "울트라맨 블루",
+        "englishName": "ultraman blue",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "물줄기를 지배하는 루브 형제의 동생",
+        "year": 2018,
+        "height": "51m",
+        "weight": "43,000t",
+        "speed": "마하 7.2",
+        "origin": "o50",
+        "originKo": "O-50 성운 전사의 봉우리",
+        "transformHost": "미나토 이사미 (루브 자이로)",
+        "signatureMove": "블루 아쿠아 스트라이크, 물장벽 소환",
+        "theme": "blue",
+        "image": "images/showa/ultraman blue.webp",
+        "description": "루브 삼남매의 연구가 체질 둘째 동생입니다. 물 속성을 활용해 유연한 격투 기법과 방벽을 소환해 로소 형을 받쳐줍니다."
     },
     {
         "id": "ultraman-boy",
@@ -760,6 +779,101 @@
         "description": "초등학생 나이의 꼬마 울트라 전사입니다. 아직 성년이 되지 않아 실전 배치는 어렵지만 훗날 최고의 전사를 꿈꾸며 열심히 단련 중입니다."
     },
     {
+        "id": "ultraman-dinas",
+        "name": "울트라맨 디너스",
+        "englishName": "ultraman dinas",
+        "era": "reiwa",
+        "eraKo": "레이와 시대",
+        "subtitle": "우정의 빛을 전수받은 우주 소녀",
+        "year": 2023,
+        "height": "55m",
+        "weight": "40,000t",
+        "speed": "마하 9",
+        "origin": "earth",
+        "originKo": "평행 우주 라비성",
+        "transformHost": "디나스 (디 플래셔)",
+        "signatureMove": "디나스 이레이저, 괴수 스캔 소환",
+        "theme": "silver",
+        "image": "images/showa/ultraman dinas.webp",
+        "description": "라비성 출신의 이성인 디나스가 지구 수호의 의지를 전수받아 임시 변신하는 특수한 전사입니다. 기량을 다하지 못해도 카나타의 데커로 바통을 잇는 중요한 연결고리 역할을 수행합니다."
+    },
+    {
+        "id": "ultraman-fuma",
+        "name": "울트라맨 후마",
+        "englishName": "ultraman fuma",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "O-50의 바람의 닌자 거인",
+        "year": 2019,
+        "height": "48m",
+        "weight": "25,000t",
+        "speed": "마하 15",
+        "origin": "o50",
+        "originKo": "O-50 행성 전사의 봉우리",
+        "transformHost": "쿠도 히로유키 (타이가 스파크)",
+        "signatureMove": "극광패왕검, 수리검 광탄",
+        "theme": "blue",
+        "image": "images/showa/ultraman fuma.webp",
+        "description": "O-50 시련을 딛고 바람의 닌자 신속 속성을 전수받은 민첩파 전사입니다. 수리검을 던지듯 빔을 날리고 덤블링 킥으로 적을 교란합니다."
+    },
+    {
+        "id": "ultraman-ginga-victory",
+        "name": "울트라맨 긴가 빅토리",
+        "englishName": "ultraman ginga victory",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "지하와 우주의 에너지가 공명한 합체 전신",
+        "year": 2014,
+        "height": "55m",
+        "weight": "40,000t",
+        "speed": "마하 22",
+        "origin": "earth",
+        "originKo": "지구 지하 세계",
+        "transformHost": "히카루 라이도 & 쇼 (울트라 융합)",
+        "signatureMove": "울트라 퓨전 슛",
+        "theme": "red",
+        "image": "images/showa/ultraman ginga victory.webp",
+        "description": "긴가와 빅토리가 브레이슬릿을 매개로 영혼을 합쳐 소환되는 초강화 형태입니다. 선배 전사들의 시그니처 광선을 난사하는 올스타 스킬을 자랑합니다."
+    },
+    {
+        "id": "ultraman-gruebe",
+        "name": "울트라맨 그루브",
+        "englishName": "ultraman gruebe",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "루브 삼남매의 삼위일체 궁극 형태",
+        "year": 2019,
+        "height": "53m",
+        "weight": "47,000t",
+        "speed": "마하 30",
+        "origin": "o50",
+        "originKo": "O-50 유래의 지구 강림",
+        "transformHost": "카츠미 & 이사미 & 아사히 (루브 컵)",
+        "signatureMove": "그루브 볼텍스 버스터",
+        "theme": "gold",
+        "image": "images/showa/ultraman gruebe.webp",
+        "description": "로소(불), 블루(물) 형제에 여동생 그리조(바람)의 수호가 완전히 융합되어 태어난 초월적 용사입니다. 우정의 스파크를 넘어 형제애로 무장하여 차원을 복구합니다."
+    },
+    {
+        "id": "ultraman-hikari",
+        "name": "울트라맨 히카리",
+        "englishName": "ultraman hikari",
+        "era": "heisei",
+        "eraKo": "헤이세이 시대",
+        "subtitle": "지혜의 두뇌와 복수의 갑옷을 두른 전사",
+        "year": 2006,
+        "height": "50m",
+        "weight": "38,000t",
+        "speed": "마하 10",
+        "origin": "m78",
+        "originKo": "M78 성운 (우주과학기술국)",
+        "transformHost": "세리자와 카즈야 (나이트 브레이스)",
+        "signatureMove": "나이트 슛, 핫 로드 블레이드",
+        "theme": "blue",
+        "image": "images/showa/ultraman hikari.webp",
+        "description": "우주과학 기술요원이었다가 고향별 아보의 참극으로 복수 귀가 된 아픈 역사를 가진 블루 마스터입니다. 뫼비우스의 파트너이며, 이후 제트 라이저 등 완구를 발명한 천재입니다."
+    },
+    {
         "id": "ultraman-regulos",
         "name": "울트라맨 레굴로스",
         "englishName": "ultraman regulos",
@@ -775,8 +889,46 @@
         "transformHost": "없음 (단독 활약)",
         "signatureMove": "적룡백호권, 강력 철권타",
         "theme": "red",
-        "image": "images/reiwa/ultraman regulos.webp",
+        "image": "images/showa/ultraman regulos.webp",
         "description": "성수권이라는 우주 마샬아츠 무술을 가슴에 문신한 상태로 배운 권법 마스터입니다. 아브솔루티안 군단에 포로로 유폐되었으나 리부트와 협업해 극적인 탈출 후 정의의 주먹을 냅다 날립니다."
+    },
+    {
+        "id": "ultraman-reiga",
+        "name": "울트라맨 레이가",
+        "englishName": "ultraman reiga",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "뉴 제네레이션 전원 결합 초월신",
+        "year": 2020,
+        "height": "50m",
+        "weight": "50,000t",
+        "speed": "마하 30",
+        "origin": "earth",
+        "originKo": "뉴 제네 히어로즈 전원의 의지",
+        "transformHost": "쿠도 히로유키 (레이가 아이)",
+        "signatureMove": "레이가 얼티메이트 블래스터",
+        "theme": "gold",
+        "image": "images/showa/ultraman reiga.webp",
+        "description": "긴가부터 타이가까지 뉴 제네레이션 전사 11인의 모든 의지와 빛의 보석이 하나 되어 강림시킨 극강의 궁극 형태입니다. 그 어떠한 사악 마왕 세력도 일격 필살로 가루로 만듭니다."
+    },
+    {
+        "id": "ultraman-ruebe",
+        "name": "울트라맨 루브",
+        "englishName": "ultraman ruebe",
+        "era": "newgen",
+        "eraKo": "뉴 제네레이션",
+        "subtitle": "불꽃과 해류의 우정의 형제 결합 폼",
+        "year": 2018,
+        "height": "53m",
+        "weight": "46,000t",
+        "speed": "마하 15",
+        "origin": "o50",
+        "originKo": "O-50 유래의 지구 강림",
+        "transformHost": "카츠미 & 이사미 형제 합체",
+        "signatureMove": "루브 코즈믹 블래스터",
+        "theme": "gold",
+        "image": "images/showa/ultraman ruebe.webp",
+        "description": "루브 형제 둘이서 골드 리얼 타임 자이로를 돌려 하나의 육체로 융합한 극강의 모습입니다. 극강의 속도로 적을 제압하고 은하 폭풍을 날립니다."
     },
     {
         "id": "ultraman-the-next",

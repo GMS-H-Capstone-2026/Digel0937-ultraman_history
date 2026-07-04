@@ -1,0 +1,1388 @@
+[
+    {
+        "name": "우주인 발탄성인",
+        "type": "우주닌자 (Alien Baltan)",
+        "origin": "발탄 행성 (행성 파괴로 우주 방랑)",
+        "height": "50m",
+        "weight": "15,000t",
+        "desc": "초대 울트라맨의 대표적인 숙적이자 가장 인지도가 높은 외계인입니다. 가위 모양의 크고 튼튼한 양손에서 백열 광선을 발사하고, 기괴하게 분신하여 움직이는 닌자술로 울트라맨을 교란합니다. '포포포포포'하는 상징적인 웃음소리가 매우 유명합니다.",
+        "image": "monster/Alien Baltan.webp"
+    },
+    {
+        "name": "환각우주인 메트론성인",
+        "type": "환각우주인 (Alien Metron)",
+        "origin": "메트론 행성",
+        "height": "2m ~ 50m",
+        "weight": "120kg ~ 18,000t",
+        "desc": "인류의 신뢰 관계를 파괴하고자 붉은 담배에 환각제를 주입해 서로 의심하게 만든 지능형 외계인입니다. 울트라세븐과 노을빛 아래 나눈 격돌과 유명한 다다미방 대화 씬이 세계적인 팬덤을 가지고 있습니다.",
+        "image": "monster/Alien Metron.webp"
+    },
+    {
+        "name": "고대괴수 고모라",
+        "type": "고대괴수 (Ancient Monster)",
+        "origin": "조슨 아일랜드 (고대 생존)",
+        "height": "40m",
+        "weight": "20,000t",
+        "desc": "강력한 허리 힘에서 나오는 돌진 공격과 무자비한 메가 꼬리치기 공격으로 초대 울트라맨을 쓰러뜨렸던 정통형 고대 공룡 괴수입니다. 이후 정의로운 아군 괴수로 소환되어 큰 인기를 누렸습니다.",
+        "image": "monster/Ancient Monster Gomora.webp"
+    },
+    {
+        "name": "사신 가타노조아",
+        "type": "초고대 사신 (Evil God Gatanothor)",
+        "origin": "태고의 유적 루루이에",
+        "height": "130m",
+        "weight": "200,000t",
+        "desc": "울트라맨 티가의 최종 숙적으로, 전 인류를 암흑의 절망으로 삼켜버렸던 태고의 지배자 사신입니다. 티가를 돌 석상으로 돌려놓았으나 전 세계 어린이들의 희망이 모여 부활한 글리터 티가에게 격파당했습니다.",
+        "image": "monster/Evil God Gatanothor.webp"
+    },
+    {
+        "name": "저글러스 저글러",
+        "type": "환영마인 (Illusion Demon Juggler)",
+        "origin": "O-50 행성 전사의 봉우리",
+        "height": "1.95m ~ 50m",
+        "weight": "120kg ~ 47,000t",
+        "desc": "울트라맨 오브의 라이벌이자 뱀심류 발도용 칼날을 소환하는 미스터리 마인입니다. 빛에 선택받지 못한 슬픔으로 잠시 삐뚤어져 어둠의 힘을 지배하려 했으나 결국 가이와 조율하며 전장을 헤쳐 나갑니다.",
+        "image": "monster/Illusion Demon Jugglus Juggler.webp"
+    },
+    {
+        "name": "우주괴수 자밀라",
+        "type": "우주괴수 (Jamila)",
+        "origin": "지구 (우주 개발 도중 낙오된 비행사)",
+        "height": "50m",
+        "weight": "10,000t",
+        "desc": "원래는 지구의 인간 우주비행사였으나 사고로 미지의 행성에 조난당하여 열악한 환경 속에서 신체가 메마른 진흙 상태 괴수로 돌변했습니다. 자신을 구조하러 오지 않고 은폐했던 지구 각국 정부에 복수하고자 침입한 비극의 괴수입니다.",
+        "image": "monster/Jamila.webp"
+    },
+    {
+        "name": "우주공룡 젯톤",
+        "type": "우주공룡 (Space Dinosaur)",
+        "origin": "우주 (젯톤 성인의 무장)",
+        "height": "60m",
+        "weight": "30,000t",
+        "desc": "울트라 시리즈 최초로 **초대 울트라맨의 스페시움 광선을 전면 차단, 흡수 및 반사시켜 승리한 최강의 공룡 괴수**입니다. 단단한 껍질과 가슴의 빛나는 발광판에서 나오는 1조 도의 화염구 포격을 다룹니다.",
+        "image": "monster/Space Dinosaur Zetton.webp"
+    },
+    {
+        "name": "우주괴수 에레킹",
+        "type": "우주전기괴수 (Space Monster Eleking)",
+        "origin": "피트성인의 침략 병기",
+        "height": "53m",
+        "weight": "25,000t",
+        "desc": "울트라세븐에 등장하는 호수의 수중 전기 충격 괴수입니다. 노란색 바탕에 기하학적인 까만 줄무늬와 안테나처럼 회전하는 뿔이 마스코트입니다. 상대의 몸을 꼬리로 감아 감전 스매시를 먹이는 기법이 특기입니다.",
+        "image": "monster/Space Monster Eleking.webp"
+    },
+    {
+        "name": "우주로봇 킹죠",
+        "type": "4단 합체 로봇 (Space Robot King Joe)",
+        "origin": "페단성인의 침략 로봇",
+        "height": "55m",
+        "weight": "48,000t",
+        "desc": "울트라세븐에 등장한 우주 철강 특수 로봇입니다. 비행 전투정 4대로 나뉘어 날아가다 수중이나 대기에서 신속하게 결합합니다. 세븐의 모든 타격을 여유롭게 흘려내며 위용을 과시했습니다.",
+        "image": "monster/Space Robot King Joe.webp"
+    },
+    {
+        "name": "울트라맨 베리알",
+        "type": "타락한 악의 군주 (Dark Ultraman)",
+        "origin": "M78 성운 빛의 나라 (추방 후 레이블러드 기생)",
+        "height": "55m",
+        "weight": "60,000t",
+        "desc": "빛의 나라를 배신하고 최악의 암흑을 거느리게 된 최초의 반역자입니다. 기가 배틀라이저를 손에 쥐고 우주 전역의 백만 대군 괴수 세력을 지휘해 빛의 나라인 M78 은하를 궤멸의 공포로 물들였습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial.webp"
+    },
+    {
+        "name": "허공괴수 그리자",
+        "type": "우주의 공허 (Void Monster Greeza)",
+        "origin": "존재하지 않는 차원의 틈새",
+        "height": "미확정",
+        "weight": "미확정",
+        "desc": "울트라맨 X의 최종 보스로, 질량이나 형체, 에너지가 전혀 없는 우주의 '무(無)' 그 자체입니다. 타격 지점이 부재해 어떠한 공격도 홀로그램처럼 관통하며, 우주 생태계의 모든 생명 동력을 흡수 소멸시킵니다.",
+        "image": "monster/Void Monster Greeza.webp"
+    },
+    {
+        "name": "agile warrior hudra",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 agile warrior hudra입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/agile warrior hudra.webp"
+    },
+    {
+        "name": "카오스 S",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 카오스 S입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Chaos S.webp"
+    },
+    {
+        "name": "카오스 T",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 카오스 T입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Chaos T.webp"
+    },
+    {
+        "name": "카오스 U",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 카오스 U입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Chaos U.webp"
+    },
+    {
+        "name": "다크 Mephisto Zwei",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 다크 Mephisto Zwei입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Dark Mephisto Zwei.webp"
+    },
+    {
+        "name": "Delusion Ultraman Agul",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Delusion Ultraman Agul입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraman Agul.webp"
+    },
+    {
+        "name": "Delusion Ultraseven",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Delusion Ultraseven입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraseven.webp"
+    },
+    {
+        "name": "Empire Hunting Soldiers 다크lops",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Empire Hunting Soldiers 다크lops입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Empire Hunting Soldiers Darklops.webp"
+    },
+    {
+        "name": "herculean warrior darramb",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 herculean warrior darramb입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/herculean warrior darramb.webp"
+    },
+    {
+        "name": "Illusion Demon Jugglus Juggler",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Illusion Demon Jugglus Juggler입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Illusion Demon Jugglus Juggler.webp"
+    },
+    {
+        "name": "가짜 Astra",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Astra입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Astra.webp"
+    },
+    {
+        "name": "가짜 Hunter Knight Tsurugi",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Hunter Knight Tsurugi입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Hunter Knight Tsurugi.webp"
+    },
+    {
+        "name": "가짜 Ultraman Ace",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Ace입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Ace.webp"
+    },
+    {
+        "name": "가짜 Ultraman Agul",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Agul입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Agul.webp"
+    },
+    {
+        "name": "가짜 Ultraman cosmos",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman cosmos입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman cosmos.webp"
+    },
+    {
+        "name": "가짜 Ultraman Dyna",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Dyna입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Dyna.webp"
+    },
+    {
+        "name": "가짜 Ultraman Gaia",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Gaia입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Gaia.webp"
+    },
+    {
+        "name": "가짜 Ultraman Jack",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Jack입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Jack.webp"
+    },
+    {
+        "name": "가짜 Ultraman Joneus",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Joneus입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Joneus.webp"
+    },
+    {
+        "name": "가짜 Ultraman Mebius",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Mebius입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Mebius.webp"
+    },
+    {
+        "name": "가짜 Ultraman Orb",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman Orb입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Orb.webp"
+    },
+    {
+        "name": "가짜 Ultraman(SR)",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraman(SR)입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman(SR).webp"
+    },
+    {
+        "name": "가짜 Ultraseven",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Ultraseven입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraseven.webp"
+    },
+    {
+        "name": "가짜 Zoffy",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 Zoffy입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Zoffy.webp"
+    },
+    {
+        "name": "love hate warrior camearra",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 love hate warrior camearra입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/love hate warrior camearra.webp"
+    },
+    {
+        "name": "Space Fear-Demon Zett",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Space Fear-Demon Zett입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Space Fear-Demon Zett.webp"
+    },
+    {
+        "name": "Super Synthetic Beast Man Zeluganoid",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Super Synthetic Beast Man Zeluganoid입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Super Synthetic Beast Man Zeluganoid.webp"
+    },
+    {
+        "name": "The Agile Tactician Hudram",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 The Agile Tactician Hudram입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Agile Tactician Hudram.webp"
+    },
+    {
+        "name": "The Captivating Warrior Carmeara",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 The Captivating Warrior Carmeara입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Captivating Warrior Carmeara.webp"
+    },
+    {
+        "name": "The 다크 Champion Trigger Dark",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 The 다크 Champion Trigger Dark입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Dark Champion Trigger Dark.webp"
+    },
+    {
+        "name": "The Herculean Fighter Darrgon",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 The Herculean Fighter Darrgon입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Herculean Fighter Darrgon.webp"
+    },
+    {
+        "name": "Ultra 다크 Killer",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultra 다크 Killer입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultra Dark Killer.webp"
+    },
+    {
+        "name": "Ultraman Belial Atrocious",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Belial Atrocious입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Atrocious.webp"
+    },
+    {
+        "name": "Ultraman Belial Early Style",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Belial Early Style입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Early Style.webp"
+    },
+    {
+        "name": "Ultraman Belial",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Belial입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial.webp"
+    },
+    {
+        "name": "Ultraman 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Dark.webp"
+    },
+    {
+        "name": "Ultraman Geed 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Geed 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Geed Darkness.webp"
+    },
+    {
+        "name": "Ultraman Orb 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Orb 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Dark.webp"
+    },
+    {
+        "name": "Ultraman Orb 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Orb 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Darkness.webp"
+    },
+    {
+        "name": "ultraman shadow",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 ultraman shadow입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/ultraman shadow.webp"
+    },
+    {
+        "name": "Ultraman Tregear Early Style",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Tregear Early Style입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear Early Style.webp"
+    },
+    {
+        "name": "Ultraman Tregear",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Tregear입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear.webp"
+    },
+    {
+        "name": "Ultraman X 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman X 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman X Darkness.webp"
+    },
+    {
+        "name": "Ultraman Zero 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraman Zero 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Zero Darkness.webp"
+    },
+    {
+        "name": "Ultraseven 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultraseven 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraseven Dark.webp"
+    },
+    {
+        "name": "Ultroid Zero",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Ultroid Zero입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultroid Zero.webp"
+    },
+    {
+        "name": "아브솔루트 디아볼로",
+        "type": "궁극생명체 아브솔루티안 (Absolutian)",
+        "origin": "더 킹덤 (The Kingdom)",
+        "height": "50m",
+        "weight": "50,000t",
+        "desc": "코스모 환수권을 통달한 궁극생명체 아브솔루티안의 괴력 전사입니다. 가슴에 새겨진 황금 문양으로 적의 돌격을 부수며 끊임없이 부활하는 성가신 신체 복원력을 보유하고 있습니다.",
+        "image": "fake & dark ultraman list/Absolute Diavolo.webp"
+    },
+    {
+        "name": "아브솔루트 타르타로스",
+        "type": "궁극생명체 아브솔루티안 (Absolutian)",
+        "origin": "더 킹덤 (The Kingdom)",
+        "height": "56m",
+        "weight": "62,000t",
+        "desc": "아브솔루티안 군단의 냉정한 수령이자 전사입니다. 시공의 문 '나라크(Narak)'를 열어 다채로운 평행세계 차원에서 악당 세력과 타락한 전사들을 섭외해 빛의 나라 붕괴를 도모하는 흑막입니다.",
+        "image": "fake & dark ultraman list/Absolute Tartarus.webp"
+    },
+    {
+        "name": "아브솔루트 티탄",
+        "type": "아브솔루티안 검사 (Absolutian Swordsman)",
+        "origin": "더 킹덤 (The Kingdom)",
+        "height": "52m",
+        "weight": "48,000t",
+        "desc": "황금 갑옷을 두르고 쌍검술을 펼치는 고품격 아브솔루티안 무장 기사입니다. 리부트와 레굴로스를 정밀 사격하기 위해 침입하는 뛰어난 검술 실력자입니다.",
+        "image": "fake & dark ultraman list/Absolute Titan.webp"
+    },
+    {
+        "name": "에이스 Robot",
+        "type": "침략 로봇 (Ace Robot)",
+        "origin": "야풀의 이차원 공간",
+        "height": "40m",
+        "weight": "45,000t",
+        "desc": "이차원 지배자 야풀이 에이스의 전투 능력을 측정 및 복사하기 위해 조립한 메탈 스켈레톤 가짜 기계 인형입니다. 정밀도가 다소 떨어지지만 단단한 강철 몸체를 자랑합니다.",
+        "image": "fake & dark ultraman list/Ace Robot.webp"
+    },
+    {
+        "name": "민첩전사 휴드람",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 민첩전사 휴드람입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/agile warrior hudra.webp"
+    },
+    {
+        "name": "인조 울트라맨 테라노이드",
+        "type": "인조 울트라맨 (Artificial Ultraman)",
+        "origin": "지구 (지구방위대 TPC 극비 연구)",
+        "height": "55m",
+        "weight": "45,000t",
+        "desc": "인간 스스로 지구를 수호하고자 다이나의 잔존 석상 조각과 초과학력으로 빚어낸 인조 병기입니다. 사악한 우주 구체 스피어 세력에 빼앗겨 마인 젤가노이드로 오염되는 도화선이 됩니다.",
+        "image": "fake & dark ultraman list/Artificial Ultraman Terranoid.webp"
+    },
+    {
+        "name": "카오스 울트라맨 Calamity",
+        "type": "카오스 궁극 폼 (Chaos Ultraman Calamity)",
+        "origin": "카오스 헤더 완전 각성",
+        "height": "47m",
+        "weight": "47,000t",
+        "desc": "카오스 울트라맨의 최종 진화 파열 형태입니다. 코스모스의 코로나/이클립스 능력을 뛰어넘는 카오스 광선을 쏘아 도심 전체를 용암지대로 만들어 버렸습니다.",
+        "image": "fake & dark ultraman list/Chaos Ultraman Calamity.webp"
+    },
+    {
+        "name": "카오스 울트라맨",
+        "type": "카오스 복제 전사 (Chaos Ultraman)",
+        "origin": "카오스 헤더 오염",
+        "height": "47m",
+        "weight": "47,000t",
+        "desc": "사악한 우주 감염 물질 카오스 헤더가 코스모스의 자비에 저항해 그의 복제 음습 폼을 생성해낸 형태입니다. 붉고 파란 사악 띠를 두르고 괴수들을 도심으로 충동질합니다.",
+        "image": "fake & dark ultraman list/Chaos Ultraman.webp"
+    },
+    {
+        "name": "다크 파우스트",
+        "type": "어둠의 거인 (Dark Faust)",
+        "origin": "다크 필드 시공",
+        "height": "48m",
+        "weight": "32,000t",
+        "desc": "넥서스 세계관에 등장하는 최초의 사악 비스트 조종 마인입니다. 등 뒤의 어둠 장벽을 전개하여 넥서스의 메타 필드를 검은색의 다크 필드로 소염하여 무력화시킵니다.",
+        "image": "fake & dark ultraman list/Dark Faust.webp"
+    },
+    {
+        "name": "다크 루기엘",
+        "type": "사악의 원조신 (Dark Lugiel)",
+        "origin": "태고의 어둠의 균열",
+        "height": "가변",
+        "weight": "가변",
+        "desc": "울트라맨 긴가의 숙적이자, 원래는 하나였던 빛 and 어둠의 자아입니다. 다크 스파크 완구를 활용해 은하계 전사들을 인형 '스파크 돌즈'로 잠재워 영원히 정지시키려 획책했습니다.",
+        "image": "fake & dark ultraman list/Dark Lugiel.webp"
+    },
+    {
+        "name": "다크 메피스토 츠바이",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 다크 메피스토 츠바이입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Dark Mephisto Zwei.webp"
+    },
+    {
+        "name": "다크 메피스토",
+        "type": "어둠의 계승자 (Dark Mephisto)",
+        "origin": "다크 스페이스",
+        "height": "50m",
+        "weight": "50,000t",
+        "desc": "넥서스 듀나미스트들의 사악한 어둠의 계승 마인입니다. 양손의 강철 발톱 갈퀴를 휘두르고, 사악한 빔 격투술로 빛의 계승자 히메야 준을 처절하게 괴롭혔습니다.",
+        "image": "fake & dark ultraman list/Dark Mephisto.webp"
+    },
+    {
+        "name": "다크 자기",
+        "type": "사악한 파멸 파괴신 (Dark Zagi)",
+        "origin": "M80 성운 (방위용 복제 로봇 폭주)",
+        "height": "50m",
+        "weight": "44,000t",
+        "desc": "본래 태고의 신 노아의 힘을 모방해 이성인들이 제작한 방위용 로봇이었으나, 자아가 사악 오염되어 파괴신으로 전락했습니다. 넥서스의 최종 악마로 지구 도심을 궤멸 위기로 몰고 갔습니다.",
+        "image": "fake & dark ultraman list/Dark Zagi.webp"
+    },
+    {
+        "name": "다크롭스 제로",
+        "type": "차원 침략 메카닉 (Darklops Zero)",
+        "origin": "베리알 은하제국 병기창",
+        "height": "49m",
+        "weight": "35,000t",
+        "desc": "타락한 황제 베리알이 제로의 격투 능력과 차원 이동 기능을 복사하여 대량 양산한 외외눈 로봇입니다. 흉부에서 블랙홀 미사일을 발사해 차원을 뒤흔듭니다.",
+        "image": "fake & dark ultraman list/Darklops Zero.webp"
+    },
+    {
+        "name": "망상 울트라맨 아굴",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 망상 울트라맨 아굴입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraman Agul.webp"
+    },
+    {
+        "name": "망상 울트라세븐",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 망상 울트라세븐입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraseven.webp"
+    },
+    {
+        "name": "제국 사냥병 다크롭스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 제국 사냥병 다크롭스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Empire Hunting Soldiers Darklops.webp"
+    },
+    {
+        "name": "이블 티가",
+        "type": "사악한 초고대 거인 (Evil Tiga)",
+        "origin": "초고대 유적 지하 시공",
+        "height": "53m",
+        "weight": "44,000t",
+        "desc": "티가와 유사한 초고대 유적 속 석상이었으나, 오만하고 사악한 천재 과학자가 융합하여 어둠에 물들여 깨워버린 폼입니다.",
+        "image": "fake & dark ultraman list/evil tiga.webp"
+    },
+    {
+        "name": "이블 Trigger",
+        "type": "이블 트리거 (Evil Trigger)",
+        "origin": "초고대 지구 어둠의 고대유적",
+        "height": "53m",
+        "weight": "44,000t",
+        "desc": "트리거의 고대 유전자를 해독해 사악한 광신도가 변신한 칠흑의 트리거 복제 형태입니다. 절망과 분노를 도심에 흩뿌립니다.",
+        "image": "fake & dark ultraman list/Evil Trigger.webp"
+    },
+    {
+        "name": "강력전사 다람브",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 강력전사 다람브입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/herculean warrior darramb.webp"
+    },
+    {
+        "name": "가짜  아스트라",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  아스트라입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Astra.webp"
+    },
+    {
+        "name": "가짜  헌터 나이트 츠루기",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  헌터 나이트 츠루기입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Hunter Knight Tsurugi.webp"
+    },
+    {
+        "name": "가짜  울트라맨 에이스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 에이스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Ace.webp"
+    },
+    {
+        "name": "가짜  울트라맨 아굴",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 아굴입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Agul.webp"
+    },
+    {
+        "name": "가짜  울트라맨 베리알",
+        "type": "가짜 베리알 (Imitation Belial)",
+        "origin": "외계 침략 세력 변장",
+        "height": "55m",
+        "weight": "60,000t",
+        "desc": "바바루 성인 등이 울트라 전사들의 평판을 깎아내리기 위해 그의 흉폭한 붉은 발톱과 타락 슈트를 변장하여 도시를 파괴한 연극용 복제품입니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Belial.webp"
+    },
+    {
+        "name": "가짜  울트라맨 코스모스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 코스모스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman cosmos.webp"
+    },
+    {
+        "name": "가짜  울트라맨 다이나",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 다이나입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Dyna.webp"
+    },
+    {
+        "name": "가짜  울트라맨 가이아",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 가이아입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Gaia.webp"
+    },
+    {
+        "name": "가짜  울트라맨 잭",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 잭입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Jack.webp"
+    },
+    {
+        "name": "가짜  울트라맨 조니어스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 조니어스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Joneus.webp"
+    },
+    {
+        "name": "가짜  울트라맨 뫼비우스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 뫼비우스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Mebius.webp"
+    },
+    {
+        "name": "가짜  울트라맨 오브",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨 오브입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Orb.webp"
+    },
+    {
+        "name": "가짜  울트라맨(SR)",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라맨(SR)입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman(SR).webp"
+    },
+    {
+        "name": "가짜  울트라맨",
+        "type": "가짜 울트라맨 (Imitation Ultraman)",
+        "origin": "발탄성인/자라브성인 조율 변장",
+        "height": "40m",
+        "weight": "30,000t",
+        "desc": "자라브성인이 과학특수대를 속이기 위해 울트라맨으로 정밀 변장한 형태입니다. 진짜에게 이내 들통났습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman.webp"
+    },
+    {
+        "name": "가짜  울트라세븐",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  울트라세븐입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraseven.webp"
+    },
+    {
+        "name": "가짜  조피",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜  조피입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Zoffy.webp"
+    },
+    {
+        "name": "애증전사 카밀라",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 애증전사 카밀라입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/love hate warrior camearra.webp"
+    },
+    {
+        "name": "Sp에이스 Fear-Demon 젯",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 Sp에이스 Fear-Demon 젯입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Space Fear-Demon Zett.webp"
+    },
+    {
+        "name": "초합성수 인간 젤가노이드",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 초합성수 인간 젤가노이드입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Super Synthetic Beast Man Zeluganoid.webp"
+    },
+    {
+        "name": "준첩책사 휴드람m",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 준첩책사 휴드람m입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Agile Tactician Hudram.webp"
+    },
+    {
+        "name": "요려전사 카밀라",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 요려전사 카밀라입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Captivating Warrior Carmeara.webp"
+    },
+    {
+        "name": "The 다크 Champion Trigger 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 The 다크 Champion Trigger 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Dark Champion Trigger Dark.webp"
+    },
+    {
+        "name": "강력투사 다곤",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 강력투사 다곤입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Herculean Fighter Darrgon.webp"
+    },
+    {
+        "name": "울트라 다크 Killer",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라 다크 Killer입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultra Dark Killer.webp"
+    },
+    {
+        "name": "울트라맨 베리알 아트로셔스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 베리알 아트로셔스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Atrocious.webp"
+    },
+    {
+        "name": "울트라맨 베리알 얼리 스타일",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 베리알 얼리 스타일입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Early Style.webp"
+    },
+    {
+        "name": "울트라맨 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Dark.webp"
+    },
+    {
+        "name": "울트라맨 지드 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 지드 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Geed Darkness.webp"
+    },
+    {
+        "name": "울트라맨 오브 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 오브 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Dark.webp"
+    },
+    {
+        "name": "울트라맨 오브 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 오브 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Darkness.webp"
+    },
+    {
+        "name": "울트라맨 섀도우",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 섀도우입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/ultraman shadow.webp"
+    },
+    {
+        "name": "울트라맨 티가 다크",
+        "type": "어둠의 거인 티가 다크 (Tiga Dark)",
+        "origin": "초고대 루루이에 유적 (어둠의 왕)",
+        "height": "53m",
+        "weight": "44,000t",
+        "desc": "수천만 년 전 티가가 빛으로 귀화하기 이전, 어둠의 4대 거인의 사악한 수장이 수장으로 군림했던 당시의 원초 형태입니다.",
+        "image": "fake & dark ultraman list/ultraman tiga dark.webp"
+    },
+    {
+        "name": "울트라맨 트레기어 얼리 스타일",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 트레기어 얼리 스타일입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear Early Style.webp"
+    },
+    {
+        "name": "울트라맨 트레기어",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 트레기어입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear.webp"
+    },
+    {
+        "name": "울트라맨 엑스 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 엑스 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman X Darkness.webp"
+    },
+    {
+        "name": "울트라맨 제로 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라맨 제로 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Zero Darkness.webp"
+    },
+    {
+        "name": "울트라세븐 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라세븐 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraseven Dark.webp"
+    },
+    {
+        "name": "울트로이드 제로",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트로이드 제로입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultroid Zero.webp"
+    },
+    {
+        "name": "에이스 로봇",
+        "type": "침략 로봇 (Ace Robot)",
+        "origin": "야풀의 이차원 공간",
+        "height": "40m",
+        "weight": "45,000t",
+        "desc": "이차원 지배자 야풀이 에이스의 전투 능력을 측정 및 복사하기 위해 조립한 가짜 기계 인형입니다. 정밀도가 다소 떨어지지만 단단한 강철 몸체를 자랑합니다.",
+        "image": "fake & dark ultraman list/Ace Robot.webp"
+    },
+    {
+        "name": "인조 울트라man 테라노이드",
+        "type": "인조 울트라맨 (Artificial Ultraman)",
+        "origin": "지구 (지구방위대 TPC 극비 연구)",
+        "height": "55m",
+        "weight": "45,000t",
+        "desc": "인간 스스로 지구를 수호하고자 다이나의 석상 조각과 초과학력으로 빚어낸 인조 병기입니다. 사악한 우주 구체 스피어 세력에 빼앗겨 마인 젤가노이드로 오염되는 도화선이 됩니다.",
+        "image": "fake & dark ultraman list/Artificial Ultraman Terranoid.webp"
+    },
+    {
+        "name": "카오스 울트라man 칼라미티",
+        "type": "카오스 궁극 폼 (Chaos Ultraman Calamity)",
+        "origin": "카오스 헤더 완전 각성",
+        "height": "47m",
+        "weight": "47,000t",
+        "desc": "카오스 울트라맨의 최종 진화 파열 형태입니다. 코스모스의 코로나/이클립스 능력을 뛰어넘는 카오스 광선을 쏘아 도심 전체를 용암지대로 만들어 버렸습니다.",
+        "image": "fake & dark ultraman list/Chaos Ultraman Calamity.webp"
+    },
+    {
+        "name": "카오스 울트라man",
+        "type": "카오스 복제 전사 (Chaos Ultraman)",
+        "origin": "카오스 헤더 오염",
+        "height": "47m",
+        "weight": "47,000t",
+        "desc": "카오스 헤더가 코스모스의 자비에 저항해 그의 복제 음습 폼을 생성해낸 형태입니다. 붉고 파란 사악 띠를 두르고 괴수들을 도심으로 충동질합니다.",
+        "image": "fake & dark ultraman list/Chaos Ultraman.webp"
+    },
+    {
+        "name": "망상 울트라man 아굴",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 망상 울트라man 아굴입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraman Agul.webp"
+    },
+    {
+        "name": "망상 울트라seven",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 망상 울트라seven입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Delusion Ultraseven.webp"
+    },
+    {
+        "name": "이블 트리거",
+        "type": "이블 트리거 (Evil Trigger)",
+        "origin": "초고대 지구 어둠의 고대유적",
+        "height": "53m",
+        "weight": "44,000t",
+        "desc": "트리거의 고대 유전자를 해독해 사악한 광신도가 변신한 칠흑의 트리거 복제 형태입니다. 절망과 분노를 도심에 흩뿌립니다.",
+        "image": "fake & dark ultraman list/Evil Trigger.webp"
+    },
+    {
+        "name": "가짜 아스트라",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 아스트라입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Astra.webp"
+    },
+    {
+        "name": "가짜 헌터 나이트 츠루기",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 헌터 나이트 츠루기입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Hunter Knight Tsurugi.webp"
+    },
+    {
+        "name": "가짜 울트라man 에이스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 에이스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Ace.webp"
+    },
+    {
+        "name": "가짜 울트라man 아굴",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 아굴입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Agul.webp"
+    },
+    {
+        "name": "가짜 울트라man 베리알",
+        "type": "가짜 베리알 (Imitation Belial)",
+        "origin": "외계 침략 세력 변장",
+        "height": "55m",
+        "weight": "60,000t",
+        "desc": "바바루 성인 등이 울트라 전사들의 평판을 깎아내리기 위해 그의 흉폭한 붉은 발톱과 타락 슈트를 변장하여 도시를 파괴한 연극용 복제품입니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Belial.webp"
+    },
+    {
+        "name": "가짜 울트라man 코스모스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 코스모스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman cosmos.webp"
+    },
+    {
+        "name": "가짜 울트라man 다이나",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 다이나입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Dyna.webp"
+    },
+    {
+        "name": "가짜 울트라man 가이아",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 가이아입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Gaia.webp"
+    },
+    {
+        "name": "가짜 울트라man 잭",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 잭입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Jack.webp"
+    },
+    {
+        "name": "가짜 울트라man 조니어스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 조니어스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Joneus.webp"
+    },
+    {
+        "name": "가짜 울트라man 뫼비우스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 뫼비우스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Mebius.webp"
+    },
+    {
+        "name": "가짜 울트라man 오브",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man 오브입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman Orb.webp"
+    },
+    {
+        "name": "가짜 울트라man(SR)",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라man(SR)입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman(SR).webp"
+    },
+    {
+        "name": "가짜 울트라man",
+        "type": "가짜 울트라맨 (Imitation Ultraman)",
+        "origin": "발탄성인/자라브성인 조율 변장",
+        "height": "40m",
+        "weight": "30,000t",
+        "desc": "자라브성인이 과학특수대를 속이기 위해 울트라맨으로 정밀 변장한 형태입니다. 진짜에게 이내 들통났습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraman.webp"
+    },
+    {
+        "name": "가짜 울트라seven",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 울트라seven입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Ultraseven.webp"
+    },
+    {
+        "name": "가짜 조피",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 가짜 조피입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Imitation Zoffy.webp"
+    },
+    {
+        "name": "스페이스 Fear-Demon 젯",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 스페이스 Fear-Demon 젯입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Space Fear-Demon Zett.webp"
+    },
+    {
+        "name": "어둠의 전사 트리거 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 어둠의 전사 트리거 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/The Dark Champion Trigger Dark.webp"
+    },
+    {
+        "name": "울트라man 베리알 아트로셔스",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 베리알 아트로셔스입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Atrocious.webp"
+    },
+    {
+        "name": "울트라man 베리알 얼리 스타일",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 베리알 얼리 스타일입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial Early Style.webp"
+    },
+    {
+        "name": "울트라man 베리알",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 베리알입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Belial.webp"
+    },
+    {
+        "name": "울트라man 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Dark.webp"
+    },
+    {
+        "name": "울트라man 지드 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 지드 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Geed Darkness.webp"
+    },
+    {
+        "name": "울트라man 오브 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 오브 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Dark.webp"
+    },
+    {
+        "name": "울트라man 오브 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 오브 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Orb Darkness.webp"
+    },
+    {
+        "name": "울트라man 섀도우",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 섀도우입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/ultraman shadow.webp"
+    },
+    {
+        "name": "울트라man 티가 다크",
+        "type": "어둠의 거인 티가 다크 (Tiga Dark)",
+        "origin": "초고대 루루이에 유적 (어둠의 왕)",
+        "height": "53m",
+        "weight": "44,000t",
+        "desc": "수천만 년 전 티가가 빛으로 귀화하기 이전, 어둠의 4대 거인의 사악한 수장이 수장으로 군림했던 당시의 원초 형태입니다.",
+        "image": "fake & dark ultraman list/ultraman tiga dark.webp"
+    },
+    {
+        "name": "울트라man 트레기어 얼리 스타일",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 트레기어 얼리 스타일입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear Early Style.webp"
+    },
+    {
+        "name": "울트라man 트레기어",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 트레기어입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Tregear.webp"
+    },
+    {
+        "name": "울트라man 엑스 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 엑스 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman X Darkness.webp"
+    },
+    {
+        "name": "울트라man 제로 다크ness",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라man 제로 다크ness입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraman Zero Darkness.webp"
+    },
+    {
+        "name": "울트라seven 다크",
+        "type": "어둠의 복제 전사 (Evil Warrior)",
+        "origin": "차원 이상 공간 / 사악 과학 세력",
+        "height": "50m",
+        "weight": "45,000t",
+        "desc": "가짜/어둠의 전사인 울트라seven 다크입니다. 진짜 울트라 전사를 궤멸시키고 지구를 침락하기 위해 사악한 기공과 복제 코드로 탄생했습니다.",
+        "image": "fake & dark ultraman list/Ultraseven Dark.webp"
+    }
+]

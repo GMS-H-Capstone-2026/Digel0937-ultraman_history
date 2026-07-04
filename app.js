@@ -2,6 +2,7 @@
 // 1. Data Variables (Loaded asynchronously via Fetch API)
 // ============================================================================
 let ULTRAMAN_DATA = [];
+let PROFILE_DATA = [];
 let KAIJU_DATA = [];
 let SONG_PLAYLIST = [];
 let QUIZ_QUESTIONS = [];
@@ -71,18 +72,20 @@ async function loadAllData() {
 
     try {
         // Fetch all JSON files in parallel
-        const [ultraRes, kaijuRes, songRes, quizRes] = await Promise.all([
+        const [ultraRes, profileRes, kaijuRes, songRes, quizRes] = await Promise.all([
             fetch('data/ultramen.json'),
+            fetch('data/profiles.json'),
             fetch('data/kaijus.json'),
             fetch('data/songs.json'),
             fetch('data/quizzes.json')
         ]);
 
-        if (!ultraRes.ok || !kaijuRes.ok || !songRes.ok || !quizRes.ok) {
+        if (!ultraRes.ok || !profileRes.ok || !kaijuRes.ok || !songRes.ok || !quizRes.ok) {
             throw new Error('데이터베이스 응답 오류가 발생했습니다.');
         }
 
         ULTRAMAN_DATA = await ultraRes.json();
+        PROFILE_DATA = await profileRes.json();
         KAIJU_DATA = await kaijuRes.json();
         SONG_PLAYLIST = await songRes.json();
         QUIZ_QUESTIONS = await quizRes.json();
@@ -289,7 +292,7 @@ function initProfileViewer() {
     let selectedId = null;
 
     function renderProfileList() {
-        let filtered = ULTRAMAN_DATA.filter(u => {
+        let filtered = PROFILE_DATA.filter(u => {
             const matchEra = profileFilter === "all" || u.era === profileFilter;
             const matchSearch = u.name.toLowerCase().includes(profileSearch.toLowerCase()) ||
                                 (u.englishName && u.englishName.toLowerCase().includes(profileSearch.toLowerCase()));
